@@ -1,0 +1,5 @@
+3. Allow the Add method to handle newlines between numbers instead of commas.
+- The following input is valid: “1\n2,3” (will equal 6)
+- The following input is not valid: “1,\n” (no need to handle this in your code)
+
+Open "dont_read_yet_description_4.txt" when done.

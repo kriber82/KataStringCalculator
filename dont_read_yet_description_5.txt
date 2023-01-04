@@ -1,0 +1,3 @@
+5. Calling Add with a negative number should throw an exception “negatives not allowed”.
+- The exception message should include the negative that was passed.
+- If there are multiple negatives, list all of them in the message.
